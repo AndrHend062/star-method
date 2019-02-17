@@ -1,0 +1,9 @@
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\bin\Debug\DrawingStarMethod.exe
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\bin\Debug\DrawingStarMethod.pdb
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\obj\x86\Debug\DrawingStarMethod.csprojAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\obj\x86\Debug\DrawingStarMethod.Form1.resources
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\obj\x86\Debug\DrawingStarMethod.Properties.Resources.resources
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\obj\x86\Debug\DrawingStarMethod.csproj.GenerateResource.cache
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\obj\x86\Debug\DrawingStarMethod.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\obj\x86\Debug\DrawingStarMethod.exe
+C:\Users\Andrew\Source\Repos\DrawingStarMethod\DrawingStarMethod\obj\x86\Debug\DrawingStarMethod.pdb
